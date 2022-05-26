@@ -10,6 +10,11 @@ background-color: background-color: #2F303A */
     .logo
     {
         color: #000000;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1.2;
+        letter-spacing: 0.03em;
     }
     .logo-text
     {
@@ -26,6 +31,7 @@ background-color: background-color: #2F303A */
     .nav-link
     {
         color: #212121
+        
     }
     .nav-contact
     {
