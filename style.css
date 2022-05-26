@@ -1,0 +1,99 @@
+/* primery-color: color: #212121
+text-color: color: #757575
+secondary-color: color: #ffffff
+secondary-link-color: color: #2196F3
+background-color: background-color: #2F303A */
+
+/* WebStudio */
+
+    /* headear */
+    .logo
+    {
+        color: #000000;
+    }
+    .logo-text
+    {
+        color: #ffffff
+    }
+    .logo-span,
+    .nav-link:focus,
+    .nav-link:hover,
+    .nav-contact:focus,
+    .nav-contact:hover
+    {
+        color: #2196F3
+    }
+    .nav-link
+    {
+        color: #212121
+    }
+    .nav-contact
+    {
+        color: #757575
+    }
+    /* Секція герой */
+    .hero-section
+    {
+        background-color: #2F303A
+    }
+    .hero-title
+    {
+        color: #ffffff
+    }
+    /* Секція особливості */
+    .specific-title
+    {
+        color: #212121
+    }
+    .description-specific
+    {
+        color: #757575
+    }
+    /* Секція чим займаємось */
+    .title-about-work
+    {
+        color: #212121
+    }
+    /* Секція знайомства */
+    .title-about-team
+    {
+        color: #212121
+    }
+    .name-employee
+    {
+        color: #212121
+    }
+    .description-employee
+    {
+        color: #757575
+    }
+    /* footer */
+
+    .address
+    {
+        color: #ffffff
+    }
+    .footer
+    {
+        background-color: #2F303A
+    }
+    .footer-contact
+    {
+        color: rgba(255, 255, 255, 0.6)
+    }
+/* Portfolio */
+
+    /* Filter button */
+    .filter-button
+    {
+        color: #212121
+    }
+    /* card */
+    .card-title
+    {
+        color: #212121
+    }
+    .card-description
+    {
+        color: #757575
+    }
